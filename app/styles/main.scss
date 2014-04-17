@@ -1,0 +1,14 @@
+$icon-font-path: "/bower_components/bootstrap-sass-official/vendor/assets/fonts/bootstrap/";
+
+// bower:scss
+@import '../../bower_components/bootstrap-sass-official/vendor/assets/stylesheets/bootstrap.scss';
+// endbower
+
+.container{
+    background-color: #900000
+}
+.navbar p, a{
+    display: inline;
+
+}
+
